@@ -468,8 +468,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colorOptionsPanel: {fileID: 1907430953}
   finishOptionsPanel: {fileID: 1723688027}
-  tintOptionsPanel: {fileID: 0}
-  wheelOptionsPanel: {fileID: 0}
+  tintOptionsPanel: {fileID: 1097421680}
+  wheelOptionsPanel: {fileID: 1643401647}
 --- !u!114 &408110731
 MonoBehaviour:
   m_ObjectHideFlags: 0
