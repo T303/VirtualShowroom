@@ -55,5 +55,6 @@ public class UIManager : MonoBehaviour
         currentlySelectedOption = "wheels";
         deactivateAllOptionPanels();
         wheelOptionsPanel.SetActive(true);
+        
     }
 }
